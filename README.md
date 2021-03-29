@@ -1,4 +1,5 @@
 # Erlang Client-Server
+A simple client server app with a mnesia database
 
 ## Usage
 
